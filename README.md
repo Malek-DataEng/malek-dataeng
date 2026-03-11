@@ -14,6 +14,14 @@
 
 ---
 
+## 🏅 Certifications
+
+[![Snowflake](https://img.shields.io/badge/Snowflake_Certified-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](https://www.credential.net/profile/malekabbar25319/wallet)
+
+🔗 [Voir toutes mes certifications →](https://www.credential.net/profile/malekabbar25319/wallet)
+
+---
+
 ## 🚀 Projets
 
 | Projet | Stack | Lien |
